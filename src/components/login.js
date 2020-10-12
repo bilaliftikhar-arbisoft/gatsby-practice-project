@@ -3,7 +3,7 @@ import { logout } from "../services/auth"
 
 const Login = () => {
   useEffect(() => {
-    logout(() => { });
+    logout();
   })
   return (
     <h1>Login!</h1>

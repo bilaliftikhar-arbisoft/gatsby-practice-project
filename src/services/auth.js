@@ -22,7 +22,4 @@ export const isLoggedIn = () => {
   const user = getUser()
   return !!user.username
 }
-export const logout = callback => {
-  setUser({})
-  callback()
-}
+export const logout = () => setUser({})

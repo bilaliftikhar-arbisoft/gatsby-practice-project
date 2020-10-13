@@ -1,17 +1,17 @@
 export const routes = [
   {
-    name: "Profile",
-    path: "/profile",
+    name: 'Profile',
+    path: '/profile',
     enabled: true
   },
   {
-    name: "Logout",
-    path: "/login",
+    name: 'Logout',
+    path: '/login',
     enabled: true
   },
   {
-    name: "Signup",
-    path: "/signup",
+    name: 'Signup',
+    path: '/signup',
     enabled: false
   }
-]
+];

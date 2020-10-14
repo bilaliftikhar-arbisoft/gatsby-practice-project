@@ -8,9 +8,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
+import { useSelector } from 'react-redux';
 
 import Header from './header';
 import { NavBar } from './navigation';
+import { selectHeader } from '../selectors/header';
 import './layout.css';
 
 const Layout = ({ children }) => {
@@ -23,10 +25,10 @@ const Layout = ({ children }) => {
       }
     }
   `);
-
+  const { title } = useSelector(selectHeader);
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title || 'Title'} />
+      <Header siteTitle={title || data.site.siteMetadata.title || 'Title'} />
       <div
         style={{
           margin: '0 auto',

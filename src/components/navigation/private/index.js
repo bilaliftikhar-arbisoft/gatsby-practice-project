@@ -8,6 +8,8 @@ const basePath = '/app';
 export const NavPrivate = () =>
   <Fragment>
     {routes.map(route => route.enabled &&
-      <Link to={basePath + route.path}>{route.name}
+      <Link style={
+        { margin: '5px' }
+      } to={basePath + route.path}>{route.name}
       </Link>)}
   </Fragment>;

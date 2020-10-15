@@ -4,6 +4,12 @@ export const routes = [
     path: '/profile',
     enabled: true
   },
+  ,
+  {
+    name: 'Users',
+    path: '/users',
+    enabled: true
+  },
   {
     name: 'Logout',
     path: '/login',

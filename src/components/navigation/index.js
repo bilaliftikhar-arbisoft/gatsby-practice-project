@@ -12,7 +12,7 @@ export const NavBar = () => {
       style={{
         display: 'flex',
         flex: '1',
-        justifyContent: 'space-between',
+        justifyContent: 'flex-end',
         borderBottom: '1px solid #d1c1e0',
       }}
     >
@@ -20,4 +20,3 @@ export const NavBar = () => {
     </div>
   );
 };
-

@@ -1,16 +1,13 @@
 import React from 'react';
-import { Provider } from 'react-redux';
 
 import Layout from '../components/layout';
-import { store } from '../store';
+import Providers from '../providers';
 
 
-const IndexPage = () => (
-  <Provider store={store} >
+const IndexPage = () =>
+  <Providers layout={() =>
     <Layout>
       <h1>Hello! Welcome to the Gatsby</h1>
-    </Layout>
-  </Provider>
-);
+    </Layout>} />;
 
 export default IndexPage;

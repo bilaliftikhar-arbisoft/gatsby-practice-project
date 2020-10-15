@@ -5,9 +5,9 @@ export const users = [
     about:
       'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Argosy University - Hawaii',
     experience: 'Media Manager III',
@@ -28,9 +28,9 @@ export const users = [
     about:
       'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'New York Chiropractic College',
     experience: 'Web Designer I',
@@ -51,9 +51,9 @@ export const users = [
     about:
       'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'James Madison University',
     experience: 'Research Assistant I',
@@ -74,9 +74,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Albany Medical Center',
     experience: 'Editor',
@@ -97,9 +97,9 @@ export const users = [
     about:
       'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Foundation University',
     experience: 'VP Quality Control',
@@ -120,9 +120,9 @@ export const users = [
     about:
       'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Central',
     experience: 'Mechanical Systems Engineer',
@@ -143,9 +143,9 @@ export const users = [
     about:
       'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Metropolitana',
     experience: 'Statistician I',
@@ -166,9 +166,9 @@ export const users = [
     about:
       'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of St. Michaels College',
     experience: 'Senior Cost Accountant',
@@ -189,9 +189,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Mzuzu University',
     experience: 'Actuary',
@@ -212,9 +212,9 @@ export const users = [
     about:
       'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Blackburn College',
     experience: 'Electrical Engineer',
@@ -235,9 +235,9 @@ export const users = [
     about:
       'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad de Antioquía',
     experience: 'Occupational Therapist',
@@ -258,9 +258,9 @@ export const users = [
     about:
       'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education:
       'Institut de Recherche et dEnseignement Supérieur aux Techniques de lélectronique',
@@ -282,9 +282,9 @@ export const users = [
     about:
       'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad de Nariño',
     experience: 'Quality Engineer',
@@ -304,9 +304,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Shaikh Zayed University',
     experience: 'Dental Hygienist',
@@ -327,9 +327,9 @@ export const users = [
     about:
       'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Bank Street College of Education',
     experience: 'Web Developer II',
@@ -350,9 +350,9 @@ export const users = [
     about:
       'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Pädagogische Hochschule Erfurt/Mühlhausen',
     experience: 'Clinical Specialist',
@@ -373,9 +373,9 @@ export const users = [
     about:
       'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Aleppo',
     experience: 'Senior Sales Associate',
@@ -396,9 +396,9 @@ export const users = [
     about:
       'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Kirkwood Community College',
     experience: 'Technical Writer',
@@ -419,9 +419,9 @@ export const users = [
     about:
       'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidade de Caxias do Sul',
     experience: 'Operator',
@@ -442,9 +442,9 @@ export const users = [
     about:
       'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Bethel College McKenzie',
     experience: 'Nurse',
@@ -465,9 +465,9 @@ export const users = [
     about:
       'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Idaho',
     experience: 'VP Sales',
@@ -488,9 +488,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Mining and Geology \'St. Ivan Rils\'',
     experience: 'Developer I',
@@ -511,9 +511,9 @@ export const users = [
     about:
       'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'George Washington University',
     experience: 'Paralegal',
@@ -533,9 +533,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Indian Institute of Technology, Guwahati',
     experience: 'Software Engineer III',
@@ -556,9 +556,9 @@ export const users = [
     about:
       'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Millikin University',
     experience: 'Paralegal',
@@ -579,9 +579,9 @@ export const users = [
     about:
       'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Western States Chiropractic College',
     experience: 'Staff Scientist',
@@ -601,9 +601,9 @@ export const users = [
     about:
       'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Université de Jendouba',
     experience: 'Quality Control Specialist',
@@ -624,9 +624,9 @@ export const users = [
     about:
       'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Azerbaijan Technology University',
     experience: 'Editor',
@@ -647,9 +647,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Higher School o Business in Tarnow',
     experience: 'Clinical Specialist',
@@ -670,9 +670,9 @@ export const users = [
     about:
       'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Case Western Reserve University',
     experience: 'VP Accounting',
@@ -693,9 +693,9 @@ export const users = [
     about:
       'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Case Western Reserve University',
     experience: 'Structural Engineer',
@@ -716,9 +716,9 @@ export const users = [
     about:
       'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Aria Institute of Higher Education',
     experience: 'Senior Editor',
@@ -739,9 +739,9 @@ export const users = [
     about:
       'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Taoist College Singapore',
     experience: 'Senior Financial Analyst',
@@ -762,9 +762,9 @@ export const users = [
     about:
       'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Central Greece',
     experience: 'Analyst Programmer',
@@ -785,9 +785,9 @@ export const users = [
     about:
       'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Andina del Cusco',
     experience: 'Senior Cost Accountant',
@@ -808,9 +808,9 @@ export const users = [
     about:
       'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Atlantic University',
     experience: 'Desktop Support Technician',
@@ -831,9 +831,9 @@ export const users = [
     about:
       'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Pacific Oaks College',
     experience: 'Administrative Officer',
@@ -854,9 +854,9 @@ export const users = [
     about:
       'Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Prince Sultan University',
     experience: 'Food Chemist',
@@ -877,9 +877,9 @@ export const users = [
     about:
       'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Fachhochschule Würzburg - Schweinfurt',
     experience: 'Legal Assistant',
@@ -898,9 +898,9 @@ export const users = [
       'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.',
     about: 'Sed ante. Vivamus tortor. Duis mattis egestas metus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Takachiho University',
     experience: 'Dental Hygienist',
@@ -921,9 +921,9 @@ export const users = [
     about:
       'Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Chia Nana College of Pharmacy and Science',
     experience: 'Statistician III',
@@ -944,9 +944,9 @@ export const users = [
     about:
       'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Jammu',
     experience: 'Administrative Assistant I',
@@ -967,9 +967,9 @@ export const users = [
     about:
       'Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Mayor',
     experience: 'VP Quality Control',
@@ -990,9 +990,9 @@ export const users = [
     about:
       'Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Pennsylvania State University - Schuylkill',
     experience: 'Recruiter',
@@ -1012,9 +1012,9 @@ export const users = [
     about:
       'Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education:
       'Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft',
@@ -1036,9 +1036,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Osaka Electro-Communication University',
     experience: 'Chief Design Engineer',
@@ -1058,9 +1058,9 @@ export const users = [
     about:
       'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Da Lat',
     experience: 'Safety Technician III',
@@ -1081,9 +1081,9 @@ export const users = [
     about:
       'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Morioka College',
     experience: 'Legal Assistant',
@@ -1103,9 +1103,9 @@ export const users = [
       'Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.',
     about: 'Fusce consequat. Nulla nisl. Nunc nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Longwood College',
     experience: 'Physical Therapy Assistant',
@@ -1125,9 +1125,9 @@ export const users = [
     about:
       'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Institute of Teachers Education, Tun Hussein Onn',
     experience: 'Product Engineer',
@@ -1148,9 +1148,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Evangélica de El Salvador',
     experience: 'Cost Accountant',
@@ -1171,9 +1171,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Moldova State Agricultural University',
     experience: 'Media Manager I',
@@ -1192,9 +1192,9 @@ export const users = [
     intro: 'In congue. Etiam justo. Etiam pretium iaculis justo.',
     about: 'Sed ante. Vivamus tortor. Duis mattis egestas metus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Art Institute of Charlotte',
     experience: 'GIS Technical Architect',
@@ -1215,9 +1215,9 @@ export const users = [
     about:
       'Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Mersin University',
     experience: 'Director of Sales',
@@ -1238,9 +1238,9 @@ export const users = [
     about:
       'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Ecole Spéciale de Mécanique et dElectricité',
     experience: 'Programmer Analyst III',
@@ -1261,9 +1261,9 @@ export const users = [
     about:
       'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Kursk State Medical University',
     experience: 'Assistant Manager',
@@ -1284,9 +1284,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Toyama Medical and Pharmaceutical University',
     experience: 'Physical Therapy Assistant',
@@ -1307,9 +1307,9 @@ export const users = [
     about:
       'Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University Institute of Naval Studies',
     experience: 'Statistician III',
@@ -1330,9 +1330,9 @@ export const users = [
     about:
       'Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Gardner Webb University',
     experience: 'Systems Administrator II',
@@ -1353,9 +1353,9 @@ export const users = [
     about:
       'Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Simon Fraser University',
     experience: 'Junior Executive',
@@ -1374,9 +1374,9 @@ export const users = [
     about:
       'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'St. Thomas University',
     experience: 'Quality Control Specialist',
@@ -1397,9 +1397,9 @@ export const users = [
     about:
       'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Gujrat',
     experience: 'Electrical Engineer',
@@ -1420,9 +1420,9 @@ export const users = [
     about:
       'Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Pontifícia Universidade Católica do Rio Grande do Sul',
     experience: 'Senior Cost Accountant',
@@ -1443,9 +1443,9 @@ export const users = [
     about:
       'Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Azzahra University',
     experience: 'Marketing Manager',
@@ -1466,9 +1466,9 @@ export const users = [
     about:
       'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Rovaniemi University of Applied Sciences',
     experience: 'Software Engineer III',
@@ -1489,9 +1489,9 @@ export const users = [
     about:
       'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Tokyo Gakugei University',
     experience: 'Analog Circuit Design manager',
@@ -1512,9 +1512,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Atlanta Christian College',
     experience: 'Safety Technician III',
@@ -1535,9 +1535,9 @@ export const users = [
     about:
       'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'VanderCook College of Music',
     experience: 'Structural Analysis Engineer',
@@ -1558,9 +1558,9 @@ export const users = [
     about:
       'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Nebraska Christian College',
     experience: 'Information Systems Manager',
@@ -1581,9 +1581,9 @@ export const users = [
     about:
       'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Centro Universitário Newton Paiva',
     experience: 'Project Manager',
@@ -1604,9 +1604,9 @@ export const users = [
     about:
       'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Victoria University of Wellington',
     experience: 'Research Associate',
@@ -1627,9 +1627,9 @@ export const users = [
     about:
       'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Aventis School of Management',
     experience: 'Software Test Engineer IV',
@@ -1650,9 +1650,9 @@ export const users = [
     about:
       'Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Macerata',
     experience: 'Graphic Designer',
@@ -1673,9 +1673,9 @@ export const users = [
     about:
       'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Nicosia',
     experience: 'Environmental Tech',
@@ -1696,9 +1696,9 @@ export const users = [
     about:
       'Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Al Yarmouk University College',
     experience: 'Help Desk Operator',
@@ -1719,9 +1719,9 @@ export const users = [
     about:
       'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Baker College of Auburn Hills',
     experience: 'Paralegal',
@@ -1742,9 +1742,9 @@ export const users = [
     about:
       'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Governors State University',
     experience: 'Project Manager',
@@ -1765,9 +1765,9 @@ export const users = [
     about:
       'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Fine Arts Academy \'Jan Matejko\' in Cracow',
     experience: 'Marketing Assistant',
@@ -1788,9 +1788,9 @@ export const users = [
     about:
       'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'KASB Institute of Technology',
     experience: 'Paralegal',
@@ -1811,9 +1811,9 @@ export const users = [
     about:
       'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Begum Rokeya University, Rangpur',
     experience: 'General Manager',
@@ -1834,9 +1834,9 @@ export const users = [
     about:
       'Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Baguio',
     experience: 'Product Engineer',
@@ -1856,9 +1856,9 @@ export const users = [
     about:
       'Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Columbus State University',
     experience: 'Account Executive',
@@ -1879,9 +1879,9 @@ export const users = [
     about:
       'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Centre Universitaire de Jijel',
     experience: 'Programmer Analyst I',
@@ -1902,9 +1902,9 @@ export const users = [
     about:
       'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Institute of Public Administration',
     experience: 'Information Systems Manager',
@@ -1925,9 +1925,9 @@ export const users = [
     about:
       'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Tsinghua University',
     experience: 'Nuclear Power Engineer',
@@ -1948,9 +1948,9 @@ export const users = [
     about:
       'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Novosibirsk State Agricultural University',
     experience: 'Account Representative III',
@@ -1971,9 +1971,9 @@ export const users = [
     about:
       'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Halic University',
     experience: 'Staff Scientist',
@@ -1993,9 +1993,9 @@ export const users = [
     about:
       'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Auburn University',
     experience: 'VP Accounting',
@@ -2016,9 +2016,9 @@ export const users = [
     about:
       'Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Cheju National University',
     experience: 'Information Systems Manager',
@@ -2039,9 +2039,9 @@ export const users = [
     about:
       'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'St. Vincent College',
     experience: 'Office Assistant IV',
@@ -2062,9 +2062,9 @@ export const users = [
     about:
       'Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Ecole Nationale Supérieure de Physique de Strasbourg',
     experience: 'Database Administrator III',
@@ -2085,9 +2085,9 @@ export const users = [
     about:
       'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'La Sierra University',
     experience: 'Staff Accountant I',
@@ -2108,9 +2108,9 @@ export const users = [
     about:
       'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'East-West University, Mohakhali',
     experience: 'Tax Accountant',
@@ -2130,9 +2130,9 @@ export const users = [
     about:
       'Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Universidad Popular del Cesar',
     experience: 'Occupational Therapist',
@@ -2153,9 +2153,9 @@ export const users = [
     about:
       'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education:
       'Fachhochschule Landshut, Hochschule für Wirtschaft - Sozialwesen - Technik',
@@ -2176,9 +2176,9 @@ export const users = [
       'Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.',
     about: 'Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'New Mexico State University',
     experience: 'Nurse Practicioner',
@@ -2199,9 +2199,9 @@ export const users = [
     about:
       'Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Jerash Private University',
     experience: 'Nurse',
@@ -2222,9 +2222,9 @@ export const users = [
     about:
       'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Tambov State Technical University',
     experience: 'Staff Accountant II',
@@ -2245,9 +2245,9 @@ export const users = [
     about:
       'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'University of Trinity College',
     experience: 'Junior Executive',
@@ -2268,9 +2268,9 @@ export const users = [
     about:
       'Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.',
     activity: [
-      {id: '1', name: 'Congrats Ahmed'},
-      {id: '2', name: 'Congrats Bilal'},
-      {id: '3', name: 'Kudos to Taimoor'},
+      { id: '1', name: 'Congrats Ahmed' },
+      { id: '2', name: 'Congrats Bilal' },
+      { id: '3', name: 'Kudos to Taimoor' },
     ],
     education: 'Changwon National University',
     experience: 'Social Worker',

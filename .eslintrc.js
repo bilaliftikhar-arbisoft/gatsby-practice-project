@@ -19,9 +19,10 @@ module.exports = {
         'react'
     ],
     'rules': {
-      'semi': ['error', 'always'],
-      'quotes': ['error', 'single'],
-      'react/no-find-dom-node':['warn'],
-      'react/prop-types':['off']
+        'semi': ['error', 'always'],
+        'quotes': ['error', 'single'],
+        'react/no-find-dom-node': ['warn'],
+        'react/prop-types': ['off'],
+        'eol-last': ['error', 'always']
     }
 };

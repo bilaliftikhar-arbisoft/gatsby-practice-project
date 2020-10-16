@@ -3,20 +3,14 @@ import { NavPrivate, NavPublic } from '.';
 
 import { isLoggedIn } from '../../services/auth';
 
+import { StyledNavContainer } from './styled';
 export { NavPrivate } from './private';
 export { NavPublic } from './public';
 
 export const NavBar = () => {
   return (
-    <div
-      style={{
-        display: 'flex',
-        flex: '1',
-        justifyContent: 'flex-end',
-        borderBottom: '1px solid #d1c1e0',
-      }}
-    >
+    <StyledNavContainer>
       <nav>{isLoggedIn() ? <NavPrivate /> : <NavPublic />}</nav>
-    </div>
+    </StyledNavContainer>
   );
 };

@@ -1,21 +1,11 @@
 import React from 'react';
-import { Provider, useDispatch } from 'react-redux';
 
 import Layout from '../components/layout';
-import { store } from '../store';
-import { headerSet } from '../actions/header';
+import Providers from '../providers';
 
-
-const AboutPage = () => {
-
-  return (
-    <Provider store={store} >
-      <Layout>
-        <h1>About!</h1>
-      </Layout>
-    </Provider>
-
-  );
-};
+const AboutPage = () => <Providers
+  layout={() => <Layout>
+    <h1>About!</h1>
+  </Layout>} />;
 
 export default AboutPage;
